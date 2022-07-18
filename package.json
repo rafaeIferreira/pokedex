@@ -1,6 +1,6 @@
 {
   "name": "my-app",
-  "homepage": "rafaeIferreira.github.io/pokedex",
+  "homepage": "https://rafaeiferreira.github.io/pokedex/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
